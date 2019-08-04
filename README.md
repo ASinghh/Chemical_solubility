@@ -1,4 +1,4 @@
-# Comparision of Regression methods for modelling Chemical_solubility
+# Comparision of Regression methods for modelling Chemical solubility
 The goal of this project is to predict a response variable using a variety of techniques. As a first
 step, an exploratory analysis of the data is conducted. After pre-processing the data, each of the
 following models are trained and tested using k-fold cross-validation: linear regression, Lasso, Ridge
