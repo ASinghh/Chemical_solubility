@@ -47,7 +47,7 @@ The 5 most important predictors, based on their P-scores, in their order of impo
 5. FP091.
 
 # Conclusion
- For our use-case, we found Ordinary Least Square method to be the most effective Linear method to model chemical solubility.
+For our use-case, we found Ordinary Least Square method to be the most effective Linear method to model chemical solubility.
  For detailed project report, please read <strong>predicting-chemical-solubility.pdf</strong>.
 
 
